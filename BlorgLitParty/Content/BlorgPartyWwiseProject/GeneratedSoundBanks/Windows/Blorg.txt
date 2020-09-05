@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	38624190	TestSound			\Default Work Unit\TestSound	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	804756653	Ennemies_Birds-002	C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020-09-03_Karmoka\gamejam\BlorgLitParty\Content\BlorgPartyWwiseProject\.cache\Windows\SFX\Ennemies_Birds-002_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ennemies_Birds-002		304320
+
