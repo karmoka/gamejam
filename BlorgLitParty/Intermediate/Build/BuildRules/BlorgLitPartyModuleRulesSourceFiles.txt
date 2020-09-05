@@ -1,3 +1,0 @@
-C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020-09-03_Karmoka\gamejam\BlorgLitParty\Source\BlorgLitParty\BlorgLitParty.Build.cs
-C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020-09-03_Karmoka\gamejam\BlorgLitParty\Source\BlorgLitParty.Target.cs
-C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020-09-03_Karmoka\gamejam\BlorgLitParty\Source\BlorgLitPartyEditor.Target.cs
