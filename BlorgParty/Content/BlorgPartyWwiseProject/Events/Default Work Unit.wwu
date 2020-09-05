@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A0BA0020-26AB-4F91-BB8E-98FCA6E21F7D}" SchemaVersion="89">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{A0BA0020-26AB-4F91-BB8E-98FCA6E21F7D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="TestSound" ID="{53DAC4A8-4C34-4044-AA36-C8576338F249}">
+					<ChildrenList>
+						<Action Name="" ID="{DD239F0D-119D-4B5C-B36B-A17EBA778510}" ShortID="96228311">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ennemies_Birds-002" ID="{57AB85F8-A80C-46FB-B9DC-308904978247}" WorkUnitID="{566A83AF-F48A-459B-9430-0B689B34F0FB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
