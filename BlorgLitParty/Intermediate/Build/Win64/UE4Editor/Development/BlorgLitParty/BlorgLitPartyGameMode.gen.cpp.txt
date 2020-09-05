@@ -1,9 +1,0 @@
-C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020-09-03_Karmoka\gamejam\BlorgLitParty\Intermediate\Build\Win64\UE4Editor\Development\BlorgLitParty\Definitions.BlorgLitParty.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020-09-03_Karmoka\gamejam\BlorgLitParty\Source\BlorgLitParty/BlorgLitPartyGameMode.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020-09-03_Karmoka\gamejam\BlorgLitParty\Intermediate\Build\Win64\UE4Editor\Inc\BlorgLitParty\BlorgLitPartyGameMode.generated.h
